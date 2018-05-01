@@ -10,17 +10,14 @@ Use Postman and VSCode REST Client for intuitive API Calls.
 
 ### **What’s an API Call?**
 
-An API call is an access point involved with an HTTP method. 
+	An API call is an access point involved with an HTTP method. 
 
-Mostly, we will be using GET, POST, PUT DELETE. 
+	Mostly, we will be using GET, POST, PUT DELETE. 
 
-* GET: grab data.
-
-* POST: add data to an existing file.
-
-* PUT: replace file or resource
-
-* DELETE: delete data.
+		GET: grab data.
+		POST: add data to an existing file.
+		PUT: replace file or resource
+		DELETE: delete data.
 
 ### **How do I Download Postman?**
 
