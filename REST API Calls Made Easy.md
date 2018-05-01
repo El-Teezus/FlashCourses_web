@@ -24,25 +24,25 @@ Mostly, we will be using GET, POST, PUT DELETE.
 
 ### **How do I Download Postman?**
 
-Go to [https://www.getpostman.com/apps](https://www.getpostman.com/apps) and download the right version.
+	Go to [https://www.getpostman.com/apps](https://www.getpostman.com/apps) and download the right version.
 
 ### **How Do I Install Postman?**
 
-**macOS:** drag the file into the Applications folder. Double click postman
+	**macOS:** drag the file into the Applications folder. Double click postman
 
-**Windows:** Download the setup file and run the installer.
+	**Windows:** Download the setup file and run the installer.
 
-**Linux:**
+	**Linux:**
 
-* wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz 
+		* wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz 
 
-* sudo tar -xzf postman.tar.gz -C /opt 
+		* sudo tar -xzf postman.tar.gz -C /opt 
 
-* rm postman.tar.gz sudo ln -s /opt/Postman/Postman /usr/bin/postman
+		* rm postman.tar.gz sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
-![image alt text](image_0.png)
+		![image alt text](image_0.png)
 
-### **How do I use Postman? **
+### ** How do I use Postman? **
 
 	Postman is very intuitive.
 
