@@ -1,8 +1,8 @@
-**REST API Calls Made Easy**
+# **REST API Calls Made Easy**
 
 Use Postman and VSCode REST Client for intuitive API Calls.
 
-# **Using Postman**
+## **Using Postman**
 
 ### **What is Postman?**
 
@@ -68,7 +68,7 @@ Enter postman-echo.com/get into the URL field, click send.
 
 * https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d
 
-# **Using ****VSCode REST Client**
+## **Using ****VSCode REST Client**
 
 ### **What is VSCode REST Client?**
 
