@@ -119,8 +119,8 @@ Use Postman and VSCode REST Client for intuitive API Calls.
 
 	* In your file, use the following syntax
 
-<##### delimiter> 
-               <REQUEST TYPE> <ENDPOINT>
+<##### delimiter>
+               REQUEST TYPE ENDPOINT
 <##### delimiter>
 
 
